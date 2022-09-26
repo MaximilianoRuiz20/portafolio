@@ -1,1 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
 
+.container {
+   width: 90%;
+   background-color: rgba(255, 255, 255, .3);
+   opacity: 0,5;
+   padding: 10px 20px;
+   margin: auto;
+   /*box-shadow: 2px 2px 4px #fff;*/
+   height: 90vh;
+   font-family: 'Lato', serif;
+
+}
+
+.title{
+   width: 90%;
+   color: #fff;
+   font: weight:  700; 
+ text-align: center;
+ background-color: #2A0944;
+ margin: auto;
+ box-shadow: 2px 2px 2px #100f0f;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ font-family: 'Lato', serif;
+ }
+
+
+.bandera{
+   background-color: #0F3460;
+   width: 500px;
+
+}
